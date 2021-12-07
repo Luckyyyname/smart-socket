@@ -1,0 +1,11 @@
+#main-echart-box {
+    margin: 20px 0 80px 0;
+}
+#main-echart {
+    width: 90%;
+    height: 350px;
+}
+#main-echart-box button{
+    margin: 20px;
+    display: inline-block;
+}
